@@ -1,3 +1,9 @@
+# **IMPORTANT**
+
+###### The `README` below this point is from the original repository. There are further modifications made on top of the original repository to accomodate the Autown platform. The original reposity is available at: [carRegisterOnBlockchain](https://github.com/kopecmartin/carRegisterOnBlockchain)
+
+###### The frontend repository is available at [autown-frontend](https://github.com/snick-m/autown-frontend)
+
 # carRegisterOnBlockchain
 
 This demo is just a very simple blockchain implementation for presentation
